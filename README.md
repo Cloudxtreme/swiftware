@@ -3,4 +3,9 @@ Fun python script that will play ASCII YouTube videos in the terminal. Current s
 
 If no video is supplied to the script, it will download one from YouTube.
 
+
+vlc -V caca swift.3gp
+
+dereengine.org/linux/vlc-caca-ascii-output
+
 **Disclaimer: I do not own any of these videos, all rights belong to their respective owners.
